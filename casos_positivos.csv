@@ -1,1 +1,0 @@
-# caso_positivo.csv
